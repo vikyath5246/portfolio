@@ -27,7 +27,7 @@ function App() {
       <Skills />
       <Contact />
       <footer className={"footer text-center py-5"}>
-        <a href="/">Keerthan Nandigama</a>
+        <a href="/">Vikyath Komatireddy</a>
       </footer>
       {showArrow && (
         <div

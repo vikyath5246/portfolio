@@ -3,7 +3,7 @@ export function Education() {
     <div id="education" className={"shadow p-3"}>
       <h1 className={"primary-text text-center"}>Education</h1>
       <College
-        degree={"Master of Computer Engineering"}
+        degree={"Master of Data Science"}
         university={"SUNY - Stony Brook University"}
         duration={"2023-2025"}
         content={""}
@@ -13,11 +13,11 @@ export function Education() {
       />
       <College
         degree={"Bachelor of Technology, Computer Science"}
-        university={"NIT Durgapur"}
-        duration={"2016-2020"}
-        content={"Ranked top 10% in the program."}
+        university={"IIT Guwahati"}
+        duration={"2018-2022"}
+        content={"Ranked top 7 in the program."}
         logo={
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxNCwuM2cjNFHZwomjWF937m09C2R1Xry4L6Z49w8FJW1sesXOjizvzTrFh8kdN6BuY0&usqp=CAU"
+          "https://upload.wikimedia.org/wikipedia/en/1/12/IIT_Guwahati_Logo.svg"
         }
       />
     </div>

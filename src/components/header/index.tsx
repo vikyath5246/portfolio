@@ -5,7 +5,7 @@ export function Header() {
   return (
     <div>
       <div className={"row py-5 justify-content-center"}>
-        <h3 className={"col primary-text"}>KN.</h3>
+        <h3 className={"col primary-text"}>VK.</h3>
         <div className={"col-6 menu-option"} />
         <div className={"col secondary-text menu-option"}>
           <a href="#education">education</a>
